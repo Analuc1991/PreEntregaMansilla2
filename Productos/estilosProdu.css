@@ -1,0 +1,51 @@
+header{
+    display: flex;
+    height: 70px;
+    background-color: yellow;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;  
+} 
+nav a{
+    font-weight: 600;
+    text-decoration: none;
+}
+.logo--nombre {
+    font-size: 40px;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
+    background: rgb(245, 245, 142);
+ } 
+
+.imagenpollo { 
+    height: 400px;
+    margin: 40px;
+    text-align: center;
+ 
+ }
+
+ .imagenpollo img {
+    height: 350px;
+    border-radius: 25%;
+    margin-top: 30px;
+ }
+ 
+.listaproducto h2{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+
+ }
+
+ .listaproducto ul li { 
+    font-size: 20px;
+ }
+
+ .listaproducto fieldset legend { 
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(226, 153, 43);
+}
+ 

@@ -1,0 +1,50 @@
+header{
+    display: flex;
+    height: 70px;
+    background-color: yellow;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;  
+}
+body {
+    background: rgb(245, 245, 142);
+ } 
+nav a{
+    font-weight: 600;
+    text-decoration: none;
+}
+.logo--nombre {
+    font-size: 40px;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.formulario {
+
+    height: 150px;
+}
+
+.img--contacto {
+    height: 400px;
+    text-align: center;
+}
+
+.img--contacto img {
+    height: 350px;
+    width: 450px;
+    margin-top: 25px;
+}
+.contactate h2 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.formulario {
+    height: 100px;
+}
+
+.formulario form {
+    font-size: 20px;
+    margin-top: 25px;
+}
